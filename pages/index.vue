@@ -7,7 +7,7 @@
 
 <script setup>
 useHead({
-  title: 'Home',
+  title: 'Página Inicial',
   meta: [
     { name: 'description', content: 'Página inicial da landing page.' }
   ]
